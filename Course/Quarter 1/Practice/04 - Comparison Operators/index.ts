@@ -1,4 +1,4 @@
-// Comparison Operators (used to compare values of variables)
+// Comparison Operators are used to compare values of variables.
 
 let n:number = 7;
 
