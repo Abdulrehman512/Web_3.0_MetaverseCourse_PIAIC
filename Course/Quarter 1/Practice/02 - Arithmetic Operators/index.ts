@@ -1,10 +1,10 @@
-//Addition
+//Addition.
 
 let n:number = 5;
 let n1:number = 7;
 console.log(n + n1);
 
-//Subtraction
+//Subtraction.
 let m: number = 9;
 let m1: number = 3;
 console.log(m - m1);
