@@ -1,4 +1,4 @@
-// Logical Operators (used to combine multiple conditions )
+// Logical Operators are used to combine multiple conditions 
 
 let n:number = 5;
 
