@@ -5,7 +5,7 @@ if(2 < 5){
     
 }
 
-//Else Example
+//Else Example.
 
 if(2 > 5){
     console.log("Correct!"); 
