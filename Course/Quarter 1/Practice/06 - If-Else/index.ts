@@ -1,4 +1,4 @@
-// If Example
+// If Example.
 
 if(2 < 5){
     console.log("Correct!");
