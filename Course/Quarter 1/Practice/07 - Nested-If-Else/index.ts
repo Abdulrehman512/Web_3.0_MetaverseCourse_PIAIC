@@ -6,7 +6,7 @@ if (country === "Pakistan") {
         console.log("Here is your Ticket!");
         
     } else {
-        console.log("Age Restriction");
+        console.log("Age Restriction!");
         
     }
 } else {
