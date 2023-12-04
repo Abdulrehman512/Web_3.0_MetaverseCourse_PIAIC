@@ -9,3 +9,5 @@ function getFavoriteNumber():number{
 }
 
 getFavoriteNumber()
+
+// Function ends.
