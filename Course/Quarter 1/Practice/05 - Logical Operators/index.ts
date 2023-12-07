@@ -15,7 +15,8 @@ console.log(n >= 5 || n < 10);
 // so Output is True.
 
 console.log(n > 5 || n < 10);
-//           F    ||    T     so Output is True.
+//           F    ||    T     
+// so Output is True.
 
 console.log(!(n < 10));
 //          !T      so Output is False.
