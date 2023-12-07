@@ -23,5 +23,6 @@ console.log(!(n < 10));
 // so Output is False.
 
 console.log(!(n > 10));
-//          !F      so Output is True.
+//          !F      
+// so Output is True.
 
