@@ -4,7 +4,7 @@ let n:number = 5;
 
 console.log(n >= 5 && n < 10);
 //            T    &&    T     
-// so Output is True.
+// So Output is True.
 
 console.log(n > 5 && n < 10);
 //            F    &&    T     
