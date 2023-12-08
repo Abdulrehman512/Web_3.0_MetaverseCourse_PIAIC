@@ -8,7 +8,7 @@ console.log(n >= 5 && n < 10);
 
 console.log(n > 5 && n < 10);
 //            F    &&    T     
-// so Output is False.
+// So Output is False.
 
 console.log(n >= 5 || n < 10);
 //            T    ||    T     
