@@ -24,5 +24,5 @@ console.log(!(n < 10));
 
 console.log(!(n > 10));
 //          !F      
-// so Output is True.
+// So Output is True.
 
