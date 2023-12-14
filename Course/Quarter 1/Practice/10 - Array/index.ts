@@ -6,3 +6,5 @@ console.log(fruits[1]);
 console.log(fruits[2]);
 console.log(fruits[3]);
 console.log(fruits[4]);
+
+console.log(fruits[5]);
