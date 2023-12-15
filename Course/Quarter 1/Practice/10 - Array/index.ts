@@ -8,3 +8,6 @@ console.log(fruits[3]);
 console.log(fruits[4]);
 
 console.log(fruits[5]);
+
+console.log(fruits[8]);
+
