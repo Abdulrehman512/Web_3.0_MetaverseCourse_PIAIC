@@ -9,5 +9,6 @@ console.log(isHoliday);
 
 let firstName:string = "Abdul";
 let lastName:string = "Rehman";
- let fullName:string =` Hi ${firstName} ${lastName}` //Template Literals.
+ let fullName:string =` Hi ${firstName} ${lastName}` 
+ //Template Literals.
 console.log(fullName);
