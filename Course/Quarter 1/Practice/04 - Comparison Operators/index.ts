@@ -2,7 +2,7 @@
 
 let n:number = 7;
 
-console.log(n == 5); // Checks that value of n is equal to 5
+console.log(n == 5); // Checks that value of n is equal to 5.
 // Outputs false because the value of n is not equal to 5, it's 7
 
 console.log(n === 5); 
