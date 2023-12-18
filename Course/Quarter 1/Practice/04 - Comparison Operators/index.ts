@@ -6,7 +6,7 @@ console.log(n == 5); // Checks that value of n is equal to 5.
 // Outputs false because the value of n is not equal to 5, it's 7.
 
 console.log(n === 5); 
-// Outputs false because even though the type and value are same for both operands but they are different data types.
+// Outputs false because even though the type and value are same for both operands but they are different data types..
 
 console.log(n != 5);
 //Output is true because n is not equal to 5
