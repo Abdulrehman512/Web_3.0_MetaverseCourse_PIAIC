@@ -15,7 +15,7 @@ else {
     
 }
 
-// Q1: Write a program that calculates the area of rectangle.
+// Q1: Write a program that calculates the area of Rectangle.
 
 var length:number = 7;
 var width:number = 5;
