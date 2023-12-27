@@ -24,7 +24,7 @@ var area:number = length*width;
 
 console.log(area);
 
-// Q2: Write a Program that Calculates the volume of cube.
+// Q2: Write a Program that Calculates the Volume of cube.
 
 var l:number = 7;
 
