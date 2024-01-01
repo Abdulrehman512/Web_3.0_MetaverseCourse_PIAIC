@@ -32,7 +32,7 @@ var volume:number = l*l*l;
 
 console.log(volume);
 
-// Q3: Write a Program that checks if a number is Positive , Negative or zero.
+// Q3: Write a Program that checks if a number is Positive , Negative or Zero.
 
 var a:number = -9;
 
