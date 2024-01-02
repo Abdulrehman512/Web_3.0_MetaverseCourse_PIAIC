@@ -45,7 +45,7 @@ if (a > 0) {
     
 }
 
-// Q4: Write a program that checks if a given number is even or odd.
+// Q4: Write a Program that checks if a given number is even or odd.
 
 var b:number = 7;
 
