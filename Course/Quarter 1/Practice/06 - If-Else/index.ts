@@ -57,7 +57,7 @@ if (b%2 == 0) {
     
 }
 
-// Q5: Write a Program that Determines if a person is eligible to vote based on their age.
+// Q5: Write a Program that Determines if a Person is eligible to vote based on their age.
 
 var age:number = 21;
 
