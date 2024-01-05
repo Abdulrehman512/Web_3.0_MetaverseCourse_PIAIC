@@ -69,7 +69,8 @@ if (age >= 18) {
     
 }
 
-//Q6: Write a Program that Calculates the Result of following Mathematical Expression ((10 + 5) * 3 - 2) / (4 % 3).
+//Q6: Write a Program that Calculates the Result of following Mathematical Expression
+//  ((10 + 5) * 3 - 2) / (4 % 3).
 
 var f:number = ((10 + 5) * 3 - 2) / (4 % 3)
 
