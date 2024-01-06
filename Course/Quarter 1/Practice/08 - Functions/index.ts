@@ -1,5 +1,5 @@
 function greet(name:string) {
-    console.log("Hello," + name.toUpperCase() + "!!" );// changes to UpperCase.
+    console.log("Hello," + name.toUpperCase() + "!!" );// Changes to UpperCase.
     
 }
 greet("Abdul")
