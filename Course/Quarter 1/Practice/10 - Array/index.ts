@@ -1,7 +1,7 @@
 let fruits:string[] = ["Apple","Mango","Banana","Peach","WaterMelon"]
 
 console.log(fruits);
-// Returns all Elements in array
+// Returns all Elements in Array
 console.log(fruits[0]);
 console.log(fruits[1]);
 console.log(fruits[2]);
