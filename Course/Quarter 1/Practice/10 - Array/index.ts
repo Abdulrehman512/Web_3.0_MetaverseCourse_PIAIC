@@ -7,6 +7,7 @@ console.log(fruits[0]);
 console.log(fruits[1]);
 // Returns Second Element in Array.
 console.log(fruits[2]);
+// Returns Third Element in Array.
 console.log(fruits[3]);
 console.log(fruits[4]);
 
