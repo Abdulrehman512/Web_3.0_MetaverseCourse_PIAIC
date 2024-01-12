@@ -9,6 +9,7 @@ console.log(fruits[1]);
 console.log(fruits[2]);
 // Returns Third Element in Array.
 console.log(fruits[3]);
+// Returns Fourth Element in Array.
 console.log(fruits[4]);
 
 console.log(fruits[5]);
