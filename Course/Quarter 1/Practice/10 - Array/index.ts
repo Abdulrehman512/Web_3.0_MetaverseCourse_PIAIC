@@ -11,7 +11,7 @@ console.log(fruits[2]);
 console.log(fruits[3]);
 // Returns Fourth Element in Array.
 console.log(fruits[4]);
-
+// Returns Fifth Element in Array.
 console.log(fruits[5]);
 
 console.log(fruits[8]);
