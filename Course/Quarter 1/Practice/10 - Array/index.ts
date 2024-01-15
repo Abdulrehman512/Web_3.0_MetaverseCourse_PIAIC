@@ -13,6 +13,6 @@ console.log(fruits[3]);
 console.log(fruits[4]);
 // Returns Fifth Element in Array.
 console.log(fruits[5]);
-// Returns Fifth Element in Array.
+// Returns Sixth Element in Array.
 console.log(fruits[8]);
-
+// Returns Fifth Element in Array.
