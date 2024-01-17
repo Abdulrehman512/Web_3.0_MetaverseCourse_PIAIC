@@ -1,10 +1,10 @@
 let rollNo:number[] = [11,22,33,44,55];
 
 rollNo.pop();
-console.log(rollNo) //removes last element from array
-
+console.log(rollNo) 
+//removes last element from array
 rollNo.push(66);
-
+//adds an element in last position of in array
 console.log(rollNo);
 
 rollNo.shift();
