@@ -1,7 +1,7 @@
 let rollNo:number[] = [11,22,33,44,55];
 
 rollNo.pop();
-console.log(rollNo) //[11, 22, 33, 44]
+console.log(rollNo) //removes last element from array
 
 rollNo.push(66);
 
