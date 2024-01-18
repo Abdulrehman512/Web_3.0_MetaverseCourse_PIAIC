@@ -9,7 +9,7 @@ console.log(rollNo);
 
 rollNo.shift();
 console.log(rollNo);//[22, 33, 44, 66]
-
+//removes first element from array
 rollNo.unshift(77);
 console.log(rollNo);
 
